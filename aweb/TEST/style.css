@@ -1,0 +1,29 @@
+/* *{
+    border: 0.1vh dotted red
+} */
+.bar{
+    display: flex;
+    width: max-content;
+    padding-top:
+}
+.name{
+    width: fit-content;
+    height: fit-content;
+    font-size: 5vh;
+    margin: 13vh 0px 0px 0px;
+    outline: none;
+    background: none;
+    border: none;
+}
+.bar-items{
+    margin-left:5vh;
+}
+.bar-item{
+    width: fit-content;
+    height: fit-content;
+    font-size: 3vh;
+    margin: 15vh 0px 0px 0px;
+    outline: none;
+    background: none;
+    border: none;
+}

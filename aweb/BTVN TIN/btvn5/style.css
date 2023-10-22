@@ -1,0 +1,49 @@
+body{
+    padding: auto;
+    margin: 0;
+    background-color: #d1873d;
+}
+.title{
+    font-weight: 900;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+.bod{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.top{
+    display: flex;
+    justify-content:start;
+    background-color: #b87333;
+}
+.bar:hover{
+    padding: 20px;
+    background-color: white;
+}
+.bar{
+    padding: 17px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.pic1{
+    width: 400px;
+    height: 300px;
+}
+.pic2{
+    width: 400px;
+    height: 300px;
+}
+.pic3{
+    width: 400px;
+    height: 300px;
+}
+.p{
+    margin-right: 100px;
+    font-family: 'Borel', cursive;
+}

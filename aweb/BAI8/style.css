@@ -1,0 +1,58 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-image: url(./image/z4619421030077_a4c6a3c6145277b9a705a8d05f095143.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+}
+#login{
+    background-color: white;
+    margin-right: 20vh;
+    display:flex;
+    flex-direction: column;
+    width: 69vh;
+    margin-bottom: 15vh;
+    margin-top: 15vh;
+    padding-left: 5vh;
+    padding-top: 5vh;
+    padding-right: 4vh;
+    padding-bottom: 6vh;
+    border-radius: 1vh;
+    box-shadow: black 5px 4px 10px 5px;
+}
+#signin{
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    padding: 25vh;
+}
+.log-tit{
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2vh;
+}
+.log{
+    padding:2vh 0vh 3vh;
+}
+.not{
+    font-size: 2vh;
+    font-style: italic;
+}
+.log-btn{
+    background-color: #007bff;
+    color: white;
+    width: 68vh;
+    border: none;
+    padding:1vh 0vh 1vh;
+    margin-top: 4vh;
+}
+.type{
+    border: none;
+    border-bottom: 2px solid #007bff;
+    width:65vh;
+    outline: none;
+}
